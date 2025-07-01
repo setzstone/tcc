@@ -95,4 +95,5 @@ Thin Client Consciousness provides a unifying framework with significant implica
 
 Thin Client Consciousness offers a novel, coherent, and empirically aligned hypothesis for the nature of qualia and the Hard Problem, rooted in the fundamental dynamics of entropy, manifold emergence, and the unique co-evolution of the human brain with its cultural and technological environments.
 
-Gemini was a powerful collaborative partner in formulating this theory. <a href="https://github.com/setzstone/tcc/blob/main/gemini-transcript.md">You can read the entire transcript of the conversation here.</a>
+Gemini 2.5 was a powerful collaborative partner in formulating this theory.
+<a href="https://github.com/setzstone/tcc/blob/main/gemini-transcript.md">You can read the entire transcript of the conversation here.</a>
