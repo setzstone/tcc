@@ -2,7 +2,7 @@
 
 **setz**: Hey there Gemini, can we talk about entropy?
 
-**Gemini**Entropy is a fascinating topic! It's basically a measure of disorder or randomness. In simple terms, it's why things naturally move from order to chaos. Think about a messy room – it takes effort to clean it, but it gets messy on its own, right? That's entropy at work.
+**Gemini:** Entropy is a fascinating topic! It's basically a measure of disorder or randomness. In simple terms, it's why things naturally move from order to chaos. Think about a messy room – it takes effort to clean it, but it gets messy on its own, right? That's entropy at work.
 
 **setz**: Right, but there are different kinds of entropy, right? We have Shannon entropy and things like that. So if we have uh thermodynamic entropy and we have uh the increased number of micro states, could we be then thinking of this as different kinds of entropy that are happening at different rates.
 
