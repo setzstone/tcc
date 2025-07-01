@@ -74,7 +74,7 @@ Various lines of scientific inquiry provide strong empirical alignment with Thin
 
 ### 4.4 The Arts & Aesthetic Manifolds
 
--   Findings: Engagement with art forms across cultures is universal and deeply enriching. Neuroaesthetics explores how the brain processes and responds to beauty and artistic expression.
+-   Findings: Engagement with art forms across cultures is universal and deeply enriching. [Neuroaesthetics](https://en.wikipedia.org/wiki/Neuroesthetics) explores how the brain processes and responds to beauty and artistic expression.
     
 -   TCC Alignment: Art, as a complex external stigmergic manifold, allows individuals to connect to shared aesthetic and emotional spaces. This connection resolves specific aesthetic/emotional tensions, and in doing so, further complexifies the individual's conscious manifold, projecting new dimensions of qualia and subjective understanding. The pursuit of art is thus a fundamental drive to experience higher levels of emergent consciousness.
 
