@@ -37,9 +37,9 @@ Within this framework, the Hard Problem of Consciousness is reframed. It's not j
 
 Our hypothesis proposes that the "inner feeling" (qualia and self-awareness) emerged as a necessary and most efficient resolution to a specific, critical unresolved tension in our evolutionary past:
 
--   The Tension: The overwhelming need for intrinsically valenced, unified, and immediately salient information integration for rapid, adaptive responses in highly complex, unpredictable, and information-rich environments. Purely functional, non-experiential processing was insufficient to provide the necessary instantaneous "value tags" (e.g., this is good/bad), immediate "unified summaries" of reality, or intrinsic motivational force.
+**The Tension:** The overwhelming need for intrinsically valenced, unified, and immediately salient information integration for rapid, adaptive responses in highly complex, unpredictable, and information-rich environments. Purely functional, non-experiential processing was insufficient to provide the necessary instantaneous "value tags" (e.g., this is good/bad), immediate "unified summaries" of reality, or intrinsic motivational force.
     
--   The Resolution: Qualia as the "Shortcut": Subjective experience (qualia like pain, pleasure, vivid colors, emotions) serves as a direct, non-computational "shortcut." It's the ultimate evolutionary adaptation for:
+**The Resolution:** Qualia as the "Shortcut": Subjective experience (qualia like pain, pleasure, vivid colors, emotions) serves as a direct, non-computational "shortcut." It's the ultimate evolutionary adaptation for:
 
 -   Intrinsic Valuation: Instantly assigning "good" or "bad" to stimuli, bypassing slow, explicit calculation.
     
