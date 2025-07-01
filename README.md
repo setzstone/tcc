@@ -1,8 +1,6 @@
 
 # Thin Client Consciousness (TCC): A Unified Theory of Emergent Qualia
 
-## Abstract
-
 This repository proposes Thin Client Consciousness (TCC), a novel theory asserting that subjective experience (qualia) and self-awareness are not solely products of individual brains, but rather emergent properties arising from the dynamic, recursive coupling and integration between internal neural manifolds and external, culturally constructed "stigmergic manifolds." This process, driven by the fundamental need to resolve entropic tension, suggests that consciousness, particularly its richer human forms, is an extended, distributed phenomenon, with individual brains acting as "thin clients" that gain full functionality through connection to a larger, shared, information-rich "server" of collective human endeavor. This framework offers a unique perspective on the Hard Problem of Consciousness.
 
 ## 1. The Universal Drive for Order: Tension and Emergence
@@ -96,3 +94,5 @@ Thin Client Consciousness provides a unifying framework with significant implica
     
 
 Thin Client Consciousness offers a novel, coherent, and empirically aligned hypothesis for the nature of qualia and the Hard Problem, rooted in the fundamental dynamics of entropy, manifold emergence, and the unique co-evolution of the human brain with its cultural and technological environments.
+
+Gemini was a powerful collaborative partner in formulating this theory. <a href="https://github.com/setzstone/tcc/blob/main/gemini-transcript.md">You can read the entire transcript of the conversation here.</a>
