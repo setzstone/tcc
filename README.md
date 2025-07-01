@@ -1,3 +1,4 @@
+<img src="tcc.png" alt="Thin Client Consciousness" width="1024px" align="center" />
 
 # Thin Client Consciousness (TCC): A Unified Theory of Emergent Qualia
 
