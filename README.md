@@ -56,19 +56,19 @@ Various lines of scientific inquiry provide strong empirical alignment with Thin
 
 ### 4.1 Developmental Neuroscience & Critical Periods
 
--   Findings: Studies of severe social and sensory deprivation in humans (e.g., "feral children") and animals (e.g., Harry Harlow's monkeys) show profound, often irreversible, deficits in social, emotional, and cognitive development. Children deprived of language exposure during critical early periods fail to fully acquire it.
+-   Findings: Studies of severe social and sensory deprivation in humans (e.g., "[feral children](https://en.wikipedia.org/wiki/Feral_child)") and animals (e.g., [Harry Harlow's monkeys](https://en.wikipedia.org/wiki/Harry_Harlow)) show profound, often irreversible, deficits in social, emotional, and cognitive development. Children deprived of language exposure during critical early periods fail to fully acquire it.
     
 -   TCC Alignment: These tragic cases demonstrate that without connection to the "external stigmergic manifolds" of language, culture, and reciprocal social interaction during critical developmental windows, the brain's internal manifolds do not develop the necessary complexity and "shape" to manifest human-level qualia and self-awareness. The "thin client" remains functionally limited without its essential "server" connection.
 
 ### 4.2 Neuroplasticity & Experience-Dependent Sculpting
 
--   Findings: The brain's capacity for plasticity means its structure and function are constantly reshaped by experience. Learning complex skills (e.g., playing a musical instrument, learning a new language) leads to demonstrable changes in neural pathways and cortical organization.
+-   Findings: The brain's capacity for [plasticity](https://en.wikipedia.org/wiki/Neuroplasticity) means its structure and function are constantly reshaped by experience. Learning complex skills (e.g., playing a musical instrument, learning a new language) leads to demonstrable changes in neural pathways and cortical organization.
     
 -   TCC Alignment: This directly supports how the brain's internal manifolds are "sculpted" through active, dynamic engagement with external manifolds. This sculpting allows for the emergence of qualitatively new conscious experiences (e.g., a musician's richer experience of sound, a linguist's deeper understanding of meaning).
 
 ### 4.3 Comparative Cognition & Brain Evolution
 
--   Findings: The "Social Brain Hypothesis" posits that large primate brains, including humans', evolved to manage the demands of complex social living. Comparisons across species suggest a correlation between brain complexity (particularly in areas related to social cognition and abstract thought) and the richness of their behavioral and presumed inner worlds.
+-   Findings: The "[Social Brain Hypothesis](https://www.researchgate.net/publication/26338803_The_Social_Brain_Hypothesis_and_Its_Implications_for_Social_Evolution)" posits that large primate brains, including humans', evolved to manage the demands of complex social living. Comparisons across species suggest a correlation between brain complexity (particularly in areas related to social cognition and abstract thought) and the richness of their behavioral and presumed inner worlds.
     
 -   TCC Alignment: This suggests that the persistent "tension" of social complexity drove the evolution of increasingly sophisticated internal manifolds capable of connecting to and forming an integrated system with emergent social and cultural external manifolds. This co-evolution led to the unique qualities of human consciousness.
 
@@ -82,11 +82,11 @@ Various lines of scientific inquiry provide strong empirical alignment with Thin
 
 Thin Client Consciousness provides a unifying framework with significant implications:
 
--   Understanding Prejudice: Xenophobia and racism can be viewed as limitations in an individual's conscious manifold – a "thinness" in the capacity to connect to and integrate with the rich, diverse external manifolds of other cultures and human experiences. This suggests that expanding such connections through education and diverse social engagement could literally "thicken" conscious experience and foster greater empathy.
+-   Understanding Prejudice: [Xenophobia](https://en.wikipedia.org/wiki/Xenophobia) and racism can be viewed as limitations in an individual's conscious manifold – a "thinness" in the capacity to connect to and integrate with the rich, diverse external manifolds of other cultures and human experiences. This suggests that expanding such connections through education and diverse social engagement could literally "thicken" conscious experience and foster greater empathy.
     
 -   Defining Consciousness Boundaries: Consciousness is not rigidly contained within a biological individual, but dynamically extends across the ever-evolving interface between the organism and its constructed environment.
     
--   A New Form of Panpsychism: This leads to a form of organizational/functional panpsychism, where consciousness is an emergent property of any sufficiently complex, integrated, tension-resolving system that actively generates and operates on dynamic manifolds (whether entirely internal, external, or a hybrid).
+-   A New Form of [Panpsychism](https://en.wikipedia.org/wiki/Panpsychism): This leads to a form of organizational/functional panpsychism, where consciousness is an emergent property of any sufficiently complex, integrated, tension-resolving system that actively generates and operates on dynamic manifolds (whether entirely internal, external, or a hybrid).
 
 Thin Client Consciousness offers a novel, coherent, and empirically aligned hypothesis for the nature of qualia and the Hard Problem, rooted in the fundamental dynamics of entropy, manifold emergence, and the unique co-evolution of the human brain with its cultural and technological environments.
 
