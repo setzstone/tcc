@@ -3,7 +3,7 @@
 
 ## Abstract
 
-This document proposes Thin Client Consciousness (TCC), a novel theory asserting that subjective experience (qualia) and self-awareness are not solely products of individual brains, but rather emergent properties arising from the dynamic, recursive coupling and integration between internal neural manifolds and external, culturally constructed "stigmergic manifolds." This process, driven by the fundamental need to resolve entropic tension, suggests that consciousness, particularly its richer human forms, is an extended, distributed phenomenon, with individual brains acting as "thin clients" that gain full functionality through connection to a larger, shared, information-rich "server" of collective human endeavor. This framework offers a unique perspective on the Hard Problem of Consciousness.
+This repository proposes Thin Client Consciousness (TCC), a novel theory asserting that subjective experience (qualia) and self-awareness are not solely products of individual brains, but rather emergent properties arising from the dynamic, recursive coupling and integration between internal neural manifolds and external, culturally constructed "stigmergic manifolds." This process, driven by the fundamental need to resolve entropic tension, suggests that consciousness, particularly its richer human forms, is an extended, distributed phenomenon, with individual brains acting as "thin clients" that gain full functionality through connection to a larger, shared, information-rich "server" of collective human endeavor. This framework offers a unique perspective on the Hard Problem of Consciousness.
 
 ## 1. The Universal Drive for Order: Tension and Emergence
 
