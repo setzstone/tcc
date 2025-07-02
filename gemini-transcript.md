@@ -1,4 +1,4 @@
-# Conversation with Gemini
+# Conversation with Gemini (voice to text errors and cutoffs left intact)
 
 **setz**: Hey there Gemini, can we talk about entropy?
 
