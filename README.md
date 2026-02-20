@@ -47,7 +47,7 @@ Our hypothesis proposes that the "inner feeling" (qualia and self-awareness) eme
     
 -   Adaptive Motivation: Providing an immediate, felt impetus for action (e.g., pain compels withdrawal) that purely logical processing might lack.
 
-## 3.1 The Umwelt Threshold: Why Experience Has a Feel
+### 3.1 The Umwelt Threshold: Why Experience Has a Feel
 
 Every organism operates within an [umwelt](https://en.wikipedia.org/wiki/Umwelt) — the slice of reality that is functionally meaningful to it. A tick's umwelt contains heat and butyric acid. A dog's contains scent gradients and social hierarchy. The umwelt expands as environmental complexity demands increasingly sophisticated modeling.
 
